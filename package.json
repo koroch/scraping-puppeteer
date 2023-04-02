@@ -1,0 +1,16 @@
+{
+  "name": "script-fluency",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "video": "node index.js",
+    "files": "node files.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.8.0"
+  }
+}
